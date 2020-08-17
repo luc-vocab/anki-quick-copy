@@ -1,7 +1,10 @@
- # Anki Quick Copy
+ # Anki Quick Clipboard Copy
  
 Allow quickly copying a particular field to the keyboard from within the card browser.
 When organizing my Anki flashcards, I frequently need to copy a particular field from my notes to the clipboard, for example to look it up in a dictionary. The normal way of selecting the note, then going to the right field, selecting all and hitting Ctrl+C, is tedious. With this add-on, as soon as you select the note in the Anki browser, the relevant field is automatically copied to the clipboard.
+
+## Installation
+Install from https://ankiweb.net/shared/info/1297559139
 
 ## Configuration
 
